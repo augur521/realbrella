@@ -250,7 +250,7 @@ body {
   .masthead,
   .mastfoot,
   .cover-container {
-    width: 700px;
+    width: 980px;
   }
 }
 
@@ -283,4 +283,18 @@ a.button:hover {
 
 .small{font-size:98%;}
 
+.cloth li{
+	float:left;
+	list-style:none;
+	margin-right:70px;
+	margin-left:-40px;
+	margin-top:15px;
+
+}
+
+.cloth ul{
+	width:300px;
+	margin:0 auto;
+
+}
 
